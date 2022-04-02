@@ -8,3 +8,5 @@ https://docs.spring.io/spring-framework/docs/current/reference/html/data-access.
 
 电子书下载
 https://cmsblogs.cn/category/ebook
+
+https://www.manongbook.com/java/
